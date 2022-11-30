@@ -1,0 +1,106 @@
+#buttonDiv{
+    text-align: center;
+    border: 25px;
+    padding: 40px;
+    opacity: .7;
+}
+
+.buttons100{
+    padding: 5px;
+    background-color: blue;
+    color: yellow;
+    font-size: xx-large;
+}
+.buttons200{
+    padding: 10px;
+    background-color: blue;
+    color: yellow;
+    font-size: xx-large;
+}
+.buttons400{
+    padding: 15px;
+    background-color: blue;
+    color: yellow;
+    font-size: xx-large;
+}
+.buttons600{
+    padding: 20px;
+    background-color: blue;
+    color: yellow;
+    font-size: xx-large;
+}
+.buttons800{
+    padding: 25px;
+    background-color: blue;
+    color: yellow;
+    font-size: xx-large;
+}
+
+body {
+    background-color: rgb(0, 68, 255);
+    color: rgb(0, 0, 0);
+    background-image: url("https://www.liveabout.com/thmb/efrNh9ARkRBFge50oiHW--S58KE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jeop_logo_large-58bacf375f9b58af5cb69e2f.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    font-size: 70px;
+    text-decoration: underline;
+}
+h2 {
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+}
+
+#input{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-style: italic;
+    font-stretch: expanded;
+    background-color: rgb(255, 251, 0);
+    color: rgb(0, 55, 255);
+}
+#submit{
+    position: absolute;
+    text-align: right;
+    display: flex;
+    justify-content: right;
+    font-size: xx-large;
+    font-style: italic;
+    font-stretch: expanded;
+    background-color: rgb(0, 94, 255);
+    color: rgb(251, 255, 0);
+    
+}
+#bank {
+        display: flex;
+        flex: 1;
+        margin-left: 0;
+        max-width: 95%;
+        width: 100%;
+        color: rgb(225, 255, 0);
+        justify-content: right;
+        padding-bottom: 25px;
+        text-decoration: underline;
+        font-size: xx-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
